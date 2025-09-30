@@ -34,7 +34,7 @@
 
 ## Reproduction
 
-**This is a temporary repository. Our code and training checkpoints are currently undergoing an audit in accordance with Tencent's regulations**
+**This is a temporary repository. Our code and training checkpoints are currently undergoing an audit in accordance with Tencent's regulations.**
 For now, to reproduce our results, you can perform TFPI training using [VeRL](https://github.com/volcengine/verl) codebase by modifying `utils/datasets/rl_dataset.py`:
 
 ```Python
