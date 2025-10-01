@@ -2,7 +2,7 @@
 <h1>TFPI: Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners</br></h1>
 
 
-<a href="" target="_blank">
+<a href="https://arxiv.org/abs/2509.26226" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-TFPI-red?logo=arxiv" height="20" /></a>
 <a href="" target="_blank">
     <img alt="" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-TFPI-ffc107?color=ffc107&logoColor=white" height="20" /></a>
