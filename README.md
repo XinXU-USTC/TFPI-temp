@@ -30,7 +30,7 @@
 </div>      
 
 ## 📝 News
-- [2025/9/30] We released the [paper]() and [temporary repo]() !
+- [2025/9/30] We released the [paper](https://arxiv.org/abs/2509.26226) and [temporary repo](https://github.com/XinXU-USTC/TFPI-temp) !
 
 ## Reproduction
 
