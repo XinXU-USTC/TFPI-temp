@@ -50,5 +50,10 @@ For evaluation, you could refer to [DeepScaler](https://github.com/agentica-proj
 ### Bib
 If you find TFPI useful for your research and applications, please cite using this BibTeX:
 ```
-
+@article{xu2025tfpi,
+  title={Thinking-Free Policy Initialization Makes Distilled Reasoning Models More Effective and Efficient Reasoners},
+  author={Xu, Xin and AI, Cliveb and Yang, Kai and Chen, Tianhao and Wang, Yang and Yang, Saiyong and Yang, Can},
+  journal={arXiv preprint arXiv:2509.26226},
+  year={2025}
+}
 ```
