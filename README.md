@@ -4,7 +4,7 @@
 
 <a href="https://arxiv.org/abs/2509.26226" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-TFPI-red?logo=arxiv" height="20" /></a>
-<a href="" target="_blank">
+<a href="https://huggingface.co/collections/xx18/tfpi" target="_blank">
     <img alt="" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-TFPI-ffc107?color=ffc107&logoColor=white" height="20" /></a>
 
 <div>
@@ -30,6 +30,8 @@
 </div>      
 
 ## 📝 News
+- [2025/12/22] We released the [official code repository](https://github.com/Tencent-Hunyuan/Thinking-Free_Policy_Initialization).
+- [2025/11/7] We released the [model checkpoints](https://huggingface.co/collections/xx18/tfpi).
 - [2025/9/30] We released the [paper](https://arxiv.org/abs/2509.26226) and [temporary repo](https://github.com/XinXU-USTC/TFPI-temp) !
 
 ## Reproduction
